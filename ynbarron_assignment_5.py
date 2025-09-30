@@ -1,4 +1,4 @@
-rint("=== Challenge 1: Collatz Conjecture ===")
+print("=== Challenge 1: Collatz Conjecture ===")
 current_number = int(input("Enter starting number: "))
 step_count = 0
 
